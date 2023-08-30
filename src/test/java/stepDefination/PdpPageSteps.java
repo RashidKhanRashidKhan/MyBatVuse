@@ -44,6 +44,6 @@ public class PdpPageSteps extends Base {
 		pdp.vrify_product_add_or_not_in_basket();
 	
 	}
-	
+	//old is gold
 
 }
